@@ -1,0 +1,5 @@
+DELETE WK_SCHEDULE_DETAIL
+WHERE 
+SELECT_MONTH = /*selectMonth*/'12'
+AND
+DAY = /*day*/'1'

@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+body{
+	background-image: url(../img/back.gif);
+	background-repeat: repeat-x; 
+}
+
+.a1{
+	background-image:url(../img/top_back01.jpg);
+	background-repeat:repeat;
+	width:98%;
+	height:98%;
+	margin :  auto;
+	border-radius: 0.5em;	 
+	text-align: center;
+}
+
+.t1{
+	font-weight: 500;
+	font-size: 50px;
+}
+
+.a2{
+	height:100px;
+	width:90%;
+	font-size:50px;
+}
+
+.a3{
+    height:100px;
+	width:90%;
+	font-size:50px;
+}
+
+.a4{
+	background-image: url(../img/back.gif);
+	background-repeat: repeat-x;
+	border-radius: 0.5em;
+	height:100px;
+	width:80%;
+	color:white;
+	font-size:50px;
+	font-family: “Verdana”;
+}
+
+

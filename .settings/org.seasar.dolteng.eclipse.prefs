@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/asiantao/src/main/resources
+DefaultRootPackage=jp.ne.asiantao
+DefaultSrcPath=/asiantao/src/main/java
+ServletPath=/asiantao
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1

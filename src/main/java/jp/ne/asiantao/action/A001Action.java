@@ -88,7 +88,7 @@ public class A001Action {
 				
 				
 				WkScheduleDetail wkScheduleDetail = wkScheduleDetailService.selectWkScheduleDetail2(parm);
-
+				//スケジュールが未登録の場合
 				if (schedule == null) {
 					tourokuDt = "未登録";
 

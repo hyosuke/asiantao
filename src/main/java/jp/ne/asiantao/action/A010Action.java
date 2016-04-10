@@ -31,6 +31,7 @@ public class A010Action {
 	@Execute(validator = false)
 	public String index() {
 
+
 		
 		HashMap<String,String> parm = new HashMap<String,String>();
 		

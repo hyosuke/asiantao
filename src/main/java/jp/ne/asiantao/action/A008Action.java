@@ -26,6 +26,7 @@ import org.seasar.struts.annotation.Execute;
 
 public class A008Action {
 
+
 	@Resource
 	@ActionForm
 	protected A008Form a008Form;
